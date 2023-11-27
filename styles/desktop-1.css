@@ -1,0 +1,415 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-icd {
+  box-sizing: border-box;
+  padding-top: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 1.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0e500c;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-jnrk-8bo {
+  margin: 0rem 62.6rem 1.1rem 53.7rem;
+  width: calc(100% - 116.3rem);
+  height: 7.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-jnrk-8bo .auto-group-rmim-jrV {
+  box-sizing: border-box;
+  padding: 0.6rem 4.4rem 0.7rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-jnrk-8bo .auto-group-rmim-jrV .burger-removebg-preview-1-Qxd {
+  margin-right: 4.6rem;
+  width: 6.8rem;
+  height: 5.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-jnrk-8bo .auto-group-rmim-jrV .home-srD {
+  margin: 0rem 7.5rem 0.3rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-jnrk-8bo .auto-group-rmim-jrV .gallery-6ys {
+  margin-bottom: 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-jnrk-8bo .ccis-logo-official-1-1-1-m4R {
+  margin-right: 5.4rem;
+  width: 7.1rem;
+  height: 7.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-jnrk-8bo .about-CfX {
+  margin: 0rem 5rem 0.4rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-jnrk-8bo .auto-group-vfk1-enR {
+  margin: 1.8rem 0rem 2.3rem 0rem;
+  width: 11.2rem;
+  height: calc(100% - 4.1rem);
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d1d500;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq {
+  width: 100%;
+  height: 32.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .auto-group-rwmf-wf3 {
+  width: 154.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .auto-group-rwmf-wf3 .faculty-1-2-T7b {
+  width: 36.1rem;
+  height: 32.3rem;
+  position: absolute;
+  left: -23rem;
+  top: 0.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .auto-group-rwmf-wf3 .fun-3-1-Jtu {
+  width: 116.2rem;
+  height: 32.5rem;
+  position: absolute;
+  left: 13.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .auto-group-rwmf-wf3 .group-21-arR {
+  width: 54.3rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 44.8rem;
+  top: 1.3rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.2102272034;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(0.2rem);
+  background-color: rgba(255, 255, 255, 0.200000003);
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .auto-group-rwmf-wf3 .group-21-arR .group-21-arR-sub-0 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0e500c;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .auto-group-rwmf-wf3 .group-21-arR .group-21-arR-sub-1 {
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .auto-group-rwmf-wf3 .leftright-copy-removebg-preview-1-Mg9 {
+  width: 8.5rem;
+  height: 9rem;
+  position: absolute;
+  left: 123.2rem;
+  top: 8.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .auto-group-rwmf-wf3 .leftright-removebg-preview-1-cry {
+  width: 8.5rem;
+  height: 8rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 8.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-icd .auto-group-3sl9-Nqb .auto-group-tebw-EEq .oath-2-1-6GM {
+  width: 36.1rem;
+  height: 32.5rem;
+  object-fit: cover;
+  position: absolute;
+  left: 131rem;
+  top: 9rem;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-hgw7-QXw {
+  width: 144.8rem;
+  height: 37.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-hgw7-QXw .rectangle-16-XcZ {
+  width: 144.8rem;
+  height: 27.6rem;
+  position: absolute;
+  left: 0;
+  top: 9.8rem;
+  background-color: #0e500c;
+}
+.desktop-1-icd .auto-group-hgw7-QXw .rectangle-6-FoT {
+  width: 36.1rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 14.4rem;
+  top: 21.2rem;
+  background-color: #ffffff;
+}
+.desktop-1-icd .auto-group-hgw7-QXw .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-zFF {
+  width: 33.8rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 22.2rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-icd .auto-group-hgw7-QXw .rectangle-17-z8m {
+  width: 36.1rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 21.2rem;
+  background-color: #ffffff;
+}
+.desktop-1-icd .auto-group-hgw7-QXw .rectangle-18-XPb {
+  width: 36.1rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 94.4rem;
+  top: 21.2rem;
+  background-color: #ffffff;
+}
+.desktop-1-icd .auto-group-hgw7-QXw .com-soc-logo-1-4eR {
+  width: 36.1rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-icd .auto-group-hgw7-QXw .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-nqK {
+  width: 33.8rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 54.9rem;
+  top: 21.9rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-icd .auto-group-hgw7-QXw .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-bnm {
+  width: 33.8rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 22.2rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-icd .auto-group-hgw7-QXw .audience-1-1-R17 {
+  width: 36.1rem;
+  height: 21.2rem;
+  position: absolute;
+  left: 94.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-icd .auto-group-hgw7-QXw .faculty-2-1-jXb {
+  width: 36.1rem;
+  height: 21rem;
+  position: absolute;
+  left: 14.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 {
+  box-sizing: border-box;
+  padding: 0.2rem 12.6rem 0.2rem 13.7rem;
+  width: 100%;
+  height: 20.7rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #090909;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-hjy1-a2R {
+  margin: 0.1rem 9.4rem 0rem 0rem;
+  width: 28.3rem;
+  height: 8.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-hjy1-a2R .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-5zm {
+  width: 28.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 4.6rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-hjy1-a2R .address-mch {
+  width: 19.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .line-1-gUm {
+  margin: 1.8rem 7.1rem 0rem 0rem;
+  width: 0.1rem;
+  height: 10.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-a5rm-brd {
+  margin: 0.1rem 10.6rem 0rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-a5rm-brd .contact-us-LJR {
+  margin-bottom: 0.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-a5rm-brd .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-UQd {
+  margin-right: 0.2rem;
+  max-width: 28.3rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .line-2-Zws {
+  margin: 1.8rem 7.5rem 0rem 0rem;
+  width: 0.1rem;
+  height: 10.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-mdi5-tz9 {
+  width: 30.2rem;
+  height: 10.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-mdi5-tz9 .follow-T1f {
+  width: 17.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-icd .auto-group-sgzj-fg9 .auto-group-mdi5-tz9 .icons-removebg-preview-1-BCZ {
+  width: 30.2rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
